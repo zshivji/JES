@@ -1,2 +1,2 @@
-# JES
-Data Entry App
+# Johnson Energy Storage (JES)
+Data Entry App and supplemental codes
